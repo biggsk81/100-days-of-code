@@ -15,4 +15,4 @@
 
 **Thoughts**: I kind of struggled with getting the inputs to be integers.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://www.example.com).
